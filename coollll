@@ -41,7 +41,7 @@ local Library = {
 	FontColor = Color3.fromRGB(243, 207, 198),
 	MainColor = Color3.fromRGB(20, 20, 20),
 	BackgroundColor = Color3.fromRGB(20, 20, 20),
-	AccentColor = Color3.fromRGB(248, 200, 220),
+	AccentColor = Color3.fromRGB(20, 20, 20),
 	OutlineColor = Color3.fromRGB(248, 200, 220),
 	RiskColor = Color3.fromRGB(255, 50, 50),
 
