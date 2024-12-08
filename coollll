@@ -38,15 +38,15 @@ local Library = {
 
 	HudRegistry = {},
 
-	FontColor = Color3.fromRGB(248, 200, 220),
-	MainColor = Color3.fromRGB(20, 20, 20),
+	FontColor = Color3.fromRGB(255, 255, 255),
+	MainColor = Color3.fromRGB(28, 28, 28),
 	BackgroundColor = Color3.fromRGB(20, 20, 20),
-	AccentColor = Color3.fromRGB(20, 20, 20),
-	OutlineColor = Color3.fromRGB(248, 200, 220),
+	AccentColor = Color3.fromRGB(38, 47, 65),
+	OutlineColor = Color3.fromRGB(50, 50, 50),
 	RiskColor = Color3.fromRGB(255, 50, 50),
 
 	Black = Color3.new(0, 0, 0),
-	Font = Enum.Font.Arcade,
+	Font = Enum.Font.Code,
 
 	OpenedFrames = {},
 	DependencyBoxes = {},
